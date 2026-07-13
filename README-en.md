@@ -8,7 +8,7 @@
 ![](https://github.com/XrayR-project/XrayR/actions/workflows/docker.yml/badge.svg)
 [![Github All Releases](https://img.shields.io/github/downloads/XrayR-project/XrayR/total.svg)]()
 
-[Iranian(farsi) README](https://github.com/XrayR-project/XrayR/blob/master/README_Fa.md), [Vietnamese(vi) README](https://github.com/XrayR-project/XrayR/blob/master/README-vi.md), [English(en) README](https://github.com/XrayR-project/XrayR/blob/master/README-en.md)
+[Iranian(farsi) README](https://github.com/XrayR-project/XrayR/blob/main/README_Fa.md), [Vietnamese(vi) README](https://github.com/XrayR-project/XrayR/blob/main/README-vi.md), [English(en) README](https://github.com/XrayR-project/XrayR/blob/main/README-en.md)
 
 A Xray backend framework that can easily support many panels.
 
@@ -71,7 +71,7 @@ This project is just my personal learning and development and maintenance. I do 
 ### 1-Click installation
 
 ```
-wget -N https://raw.githubusercontent.com/XrayR-project/XrayR-release/master/install.sh && bash install.sh
+wget -N https://raw.githubusercontent.com/XrayR-project/XrayR-release/main/install.sh && bash install.sh
 ```
 
 ### Docker
@@ -95,7 +95,7 @@ wget -N https://raw.githubusercontent.com/XrayR-project/XrayR-release/master/ins
 
 ## Licence
 
-[Mozilla Public License Version 2.0](https://github.com/XrayR-project/XrayR/blob/master/LICENSE)
+[Mozilla Public License Version 2.0](https://github.com/XrayR-project/XrayR/blob/main/LICENSE)
 
 ## Telgram
 
